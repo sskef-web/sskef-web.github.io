@@ -6,9 +6,9 @@ I have about six months of experience with WordPress. Mainly internal sites It_C
 
 ### Summary
 College student at the Belarusian National Technical University. Got good skills in the basics of C#, HTML/CSS. Can be described as an open-minded, easy-to-learn and fast-learning person.
+<br>
 
-
-### Skills
+### Skills 
 - C#
 - HTML \ CSS \ JS
 
